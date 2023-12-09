@@ -9,3 +9,4 @@ Here are the packages I use alongside my window managers:
 3. feh & nitrogen ( for wallpapers )
 4. dunst ( for notifications )
 5. picom ( window compositor )
+6. pavucontrol ( for audio control )
