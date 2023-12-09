@@ -10,3 +10,4 @@ Here are the packages I use alongside my window managers:
 4. dunst ( for notifications )
 5. picom ( window compositor )
 6. pavucontrol ( for audio control )
+7. lxappearance ( for selecting theme, icons and fonts )
