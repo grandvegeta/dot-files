@@ -12,6 +12,6 @@ Here are the packages I use alongside my window managers:
 6. pavucontrol ( for audio control )
 7. lxappearance ( for selecting theme, icons and fonts )
 8. Dmenu & Rofi ( for application launchers )
-
+9. Brightnessctl ( for brightness )
 
 NOTE: Do take a look at the configs & change the $PATH as per your directories!
