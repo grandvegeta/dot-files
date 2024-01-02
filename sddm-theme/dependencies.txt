@@ -1,0 +1,1 @@
+qt5-quickcontrols2 gst-libav phonon-qt5-gstreamer gst-plugins-good qt5-quickcontrols qt5-graphicaleffects qt5-multimedia
